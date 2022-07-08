@@ -1,0 +1,69 @@
+/* li, div{
+    color: rgb(245, 245, 11);
+} */
+/* .class2{
+    color: coral;
+} */
+
+body{
+    /* background-image:  url('Images/pexels-photo.png');
+    background-repeat: no-repeat; */
+    /*background-position: right top; */
+    /* background-size:cover;*/
+    background-attachment: scroll ; 
+    /* background: #ffff00 url('Images/pexels-photo.png') */
+    background: #fbd2d2;
+}
+.fatima{
+    background: #e8ff38; 
+}
+.fatima a{
+    text-decoration: line-through;
+}
+.class{
+    background: #5964f5;
+}
+/* .item{
+    background: #22f922;   
+} */
+.items{
+    background: #efa912;
+}
+.nav{
+    /* border-style: groove;
+    border-width: 2px;
+    border-color: rgb(237, 81, 81);
+    border-top-style: dotted; */
+
+    /* margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px; */
+
+
+    border: 5px solid rgb(3, 132, 139);
+    border-radius: 10px;
+
+    /*margin shorthand --> top right bottom left*/
+    /* margin: 50px 40px 40px 50px;  */
+    /* margin: auto; /*-->centers element horizontally*/
+    /* margin: inherit;/* -->inherits margin of parent tag */
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    margin: 2.5%;
+    padding: 1.5%;
+    /* width: 50%;
+    height: 130px;  */
+    outline: 4px solid #080808;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    word-spacing: ;
+    text-shadow: hoff voff blur #000;
+    direction: ;
+}
+
+
+
+   
